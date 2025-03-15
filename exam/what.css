@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(35, 35, 100);
+    
+}
+h1{
+    text-align: center;
+    color: rgb(105, 62, 31);
+}
+#faizan{
+
+    border-style: double;
+ background-color: rgb(178, 105, 53);
+    padding-left:10% ;
+    padding-top: 10%;
+    width: 500px; 
+    margin-left:30%;
+}
+input{
+    padding-top:15px;
+}
+#outerdiv{
+    text-align:center;
+    font-size: 30px;
+     
+}
